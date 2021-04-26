@@ -11,14 +11,6 @@
     <a href="https://my-team-page-seven.vercel.app">
       Demo
     </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/solutions/usW4rdBUgwpnfZ30ryMs">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
-      Challenge
-    </a>
   </h3>
 </div>
 
